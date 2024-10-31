@@ -1,0 +1,1 @@
+SetClockTime(0, 0, 0) -- Hour, Minute, Second
